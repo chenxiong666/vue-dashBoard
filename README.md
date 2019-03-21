@@ -1,10 +1,12 @@
 # secrtpc
 
-> A Vue.js project
+> 一个vue svg组件，仿360网速球，以及环形进度条，
 
 ## Build Setup
 
 ``` bash
+# 组件说明
+组件在components garish下 wave组件为仿360加速球组件，dashBoard为半环形加速条组件
 # install dependencies
 npm install
 
